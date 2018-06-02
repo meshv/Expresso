@@ -1,0 +1,19 @@
+{
+  "name": "expresso",
+  "version": "1.0.0",
+  "description": "Express Based WebApp Framework",
+  "main": "expresso.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node expresso.js"
+  },
+  "keywords": [
+    "framework",
+    "express"
+  ],
+  "author": "pyxelx",
+  "license": "ISC"
+}
